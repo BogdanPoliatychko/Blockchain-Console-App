@@ -2,6 +2,18 @@
 
 A Console application written in C# (.NET Framework 4.8.1) that simulates a functioning blockchain environment. This project demonstrates core distributed ledger concepts, including block generation, cryptographic hashing, Proof-of-Work (PoW) mining, and Non-Fungible Token (NFT) minting.
 
+<p align="center">
+  <img width="396" alt="Blockchain Console Menu Output Example" src="https://github.com/user-attachments/assets/478fc155-2517-4192-b872-3f3049e1d769"/>
+</p>
+
+<p align="center">
+  <img width="490" alt="Blockchain Console Mining Output Example" src="https://github.com/user-attachments/assets/9f167c45-3660-43c8-b267-891285a5cfdc"/>
+</p>
+
+<p align="center">
+  <img width="888" alt="Blockchain Console Blockchain Output Example" src="https://github.com/user-attachments/assets/72469535-715e-413d-8def-e4b352c3b31e"/>
+</p>
+
 ## Overview and Purpose of the System
 The purpose of this system is to provide an educational and interactive simulation of how a blockchain operates under the hood. Users can manually interact with the ledger through a Command Line Interface (CLI) to understand how transactions are bundled, how Proof-of-Work secures the network, and how physical or digital assets (like images) can be represented cryptographically as NFTs.
 
